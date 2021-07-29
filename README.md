@@ -1,8 +1,8 @@
 # Euro-2020-Predictive-Model-based-on-FIFA-Ranking-System
 
-we built a Predictive Model based on FIFA Ranking and making the assumption that the points follow a normal distribution. If we look closer at FIFA’s Ranking Model we will see that it is based on the ELO System where the expected result of the game can be extracted from the following formula:
+we built a Predictive Model based on FIFA Ranking and making the assumption that the points follow a normal distribution. If we look closer at FIFA’s Ranking Model we will see that it is based on the ELO System where the expected result of the game can be extracted from the following formula as attached in the .docx file in this repository.
 
-https://ci4.googleusercontent.com/proxy/Q5xDKPI-3ixq8hgSikdNeTU1q8y1cHU62XQ8FQoi0KXO7fI7-rx7GFO67pHkQTFfKULxyFe5kToKGH9QaFGxgJfCGSMkBkzoWQnAE_G4nhsR4fFBr7dFWtoA0kHTgGrgpNcDk9ssbdvulk3y=s0-d-e1-ft#https://i1.wp.com/predictivehacks.com/wp-content/uploads/2021/06/image-15.png?w=450&ssl=1
+
 
 Let’s run 10000 simulations to estimate the probability of the Euro 2020 Winner.
 
